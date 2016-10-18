@@ -1,6 +1,6 @@
 {
   "name": "fc00-addr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "list your fc00 ip address",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fc00/fc00-addr.git"
+    "url": "git+https://github.com/fc00/node-fc00-addr.git"
   },
   "keywords": [
     "fc00"
@@ -16,7 +16,7 @@
   "author": "ansuz",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/fc00/fc00-addr/issues"
+    "url": "https://github.com/fc00/node-fc00-addr/issues"
   },
-  "homepage": "https://github.com/fc00/fc00-addr#readme"
+  "homepage": "https://github.com/fc00/node-fc00-addr#readme"
 }
