@@ -1,0 +1,22 @@
+{
+  "name": "fc00-addr",
+  "version": "1.0.0",
+  "description": "list your fc00 ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fc00/fc00-addr.git"
+  },
+  "keywords": [
+    "fc00"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fc00/fc00-addr/issues"
+  },
+  "homepage": "https://github.com/fc00/fc00-addr#readme"
+}
